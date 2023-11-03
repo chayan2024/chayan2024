@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jetpack compose ,React native 
+ I am working on project with Jetpack compose ,React native ,Swift UI .
 
 
 # 💻 Tech Stack:
