@@ -1,5 +1,5 @@
 <h4 align="center">Hi 👋, B.Tech.(IT) in Information Technology, I bring over 11.6 years of substantial experience in software development . My expertise revolves around Android and iOS app development, covering both Native and React Native mobile app development and also good exposure with backend API developement with sprintboot. Particularly noteworthy is my hands-on involvement in the IoT (Internet of Things) domain, where I've made significant contributions to prominent projects, including those for esteemed clients like McDonald's and the Joy the Wedding app.</h4>
-<h1 align="center">A passionate Software developer from India</h1>
+<h2 align="center">A passionate Software developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan2024&label=Profile%20views&color=0e75b6&style=flat" alt="chayan2024" /> </p>
 
