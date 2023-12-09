@@ -1,6 +1,7 @@
-<h6 align="center" style="color: #007bff;">Hi 👋, I'm Chayan chowdhury, a seasoned IT professional with a B.Tech. in Information Technology and over 11.6 years of immersive experience in the dynamic realm of Automotive Software Engineering. 
+<h6 align="center" style="color: blue;">Hi 👋, I'm Chayan Chowdhury, a seasoned IT professional with a B.Tech. in Information Technology and over 11.6 years of immersive experience in the dynamic realm of Automotive Software Engineering. 
 My journey has been driven by a passion for technology, leading me to specialize in Android and iOS app development. I thrive in both Native and React Native mobile app landscapes, bringing innovative solutions to life. My skills extend seamlessly into backend API development, where I've excelled with Sprint Boot.
-A significant part of my career has been dedicated to the Internet of Things (IoT) domain. I've been a key player in impactful projects, leaving my mark on initiatives for renowned clients such as McDonald's, Toyota, and the Joy Wedding app. </h6>
+A significant part of my career has been dedicated to the Internet of Things (IoT) domain. I've been a key player in impactful projects, leaving my mark on initiatives for renowned clients such as McDonald's, Toyota, and the Joy Wedding app.</h6>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan2024&label=Profile%20views&color=0e75b6&style=flat" alt="chayan2024" /> </p>
