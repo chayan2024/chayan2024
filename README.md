@@ -10,7 +10,7 @@ A significant part of my career has been dedicated to the Internet of Things (Io
 
 - 🔭 I’m currently working on **IOT based application**
 
-- 🌱 I’m currently working on **React native, jetpack compose**
+- 🌱 I’m currently working on **React native, jetpack compose ,Python ,Django **
 
 - 💬 Ask me about **Java,Kotlin,SwiftUI,React**
 
