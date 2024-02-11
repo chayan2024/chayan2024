@@ -8,7 +8,7 @@ A significant part of my career has been dedicated to the Internet of Things (Io
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **IOT based application**
+- 🔭 I’m currently working on **IOT based application**.
 
 - 🌱 I’m currently working on **React native, jetpack compose ,Python ,Django **
 
