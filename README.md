@@ -1,4 +1,4 @@
-<h6 align="center">Hi 👋, I'm Chayan Chowdhury, a seasoned IT professional with a B.Tech. in Information Technology and over 12 years of immersive experience in the dynamic realm of Automotive Software Engineering. 
+<h6 align="center">Hi 👋, I'm Chayan Chowdhury, IT professional with a B.Tech. in Information Technology and over 12 years of immersive experience in the dynamic realm of Automotive Software Engineering. 
 My journey has been driven by a passion for technology, leading me to specialize in Android and iOS app development. I thrive in both Native and React Native mobile app landscapes, bringing innovative solutions to life. My skills extend seamlessly into backend API development, where I've excelled with Sprint Boot.
 A significant part of my career has been dedicated to the Internet of Things (IoT) domain. I've been a key player in impactful projects, leaving my mark on initiatives for renowned clients such as McDonald's, Toyota, and the Joy Wedding app.</h6>
 
